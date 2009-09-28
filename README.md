@@ -34,7 +34,7 @@ JS Frameworks Provided
 
 The JS libraries that I've added are hosted by Google Ajax Libraries API [http://code.google.com/apis/ajaxlibs/]. These include:
 
-jQuery [http://jquery.com/]
+jQuery [http://jquery.com/] (Default)
 jQueryUI [http://jqueryui.com/]
 Prototype JS [http://prototypejs.org/]
 Scriptaculous [http://script.aculo.us/]
