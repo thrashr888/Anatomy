@@ -21,25 +21,25 @@ One way to use the Anatomy template is to simply use a copy as the basis of a ne
 
 # Included CSS and JS libraries
 
-I've included the most popular open source CSS and JS libraries already. jQuery and 960 are the defaults but they're easy to swich by simply uncommenting the provided code and removing what's unneeded. The idea of this HTML Framework is that the basics are taken care of so you don't have to start from scratch for every new project.
+The most popular open source CSS and JS libraries are provided for you. jQuery and 960 are setup by default but they're easy to swich by simply un-commenting the provided code and removing what's unneeded. The idea of this HTML Framework is that the basics are taken care of so you don't have to start from scratch for every new web project.
 
 ## CSS Frameworks Provided
 
-- 960 Grid system, plus reset and text [http://960.gs] (Default)
-- Blueprint CSS Framework [http://blueprintcss.org]
-- YUI CSS Foundation [http://developer.yahoo.com/yui/base/]
-- Free CSS Drop-Down Menu Framework [http://www.lwis.net/free-css-drop-down-menu]
+- [960 Grid System](http://960.gs) (Default)
+- [Blueprint CSS Framework](http://blueprintcss.org)
+- [YUI CSS Foundation](http://developer.yahoo.com/yui/base/)
+- [Free CSS Drop-Down Menu Framework](http://www.lwis.net/free-css-drop-down-menu)
 
 ## JS Frameworks Provided
 
-The JS libraries that I've added are hosted by Google Ajax Libraries API [http://code.google.com/apis/ajaxlibs/]. These include:
+The JS libraries that I've added are hosted by [Google Ajax Libraries API](http://code.google.com/apis/ajaxlibs/).
 
-- jQuery [http://jquery.com/] (Default)
-- jQueryUI [http://jqueryui.com/]
-- Prototype JS [http://prototypejs.org/]
-- Scriptaculous [http://script.aculo.us/]
-- Mootools [http://mootools.net/]
-- Dojo [http://www.dojotoolkit.org/]
-- SWFObject [http://code.google.com/p/swfobject/]
-- YUI [http://developer.yahoo.com/yui/]
-- Ext Core [http://www.extjs.com/products/extcore/]
+- [jQuery](http://jquery.com/) (Default)
+- [jQueryUI](http://jqueryui.com/)
+- [Prototype JS](http://prototypejs.org/)
+- [Scriptaculous](http://script.aculo.us/)
+- [Mootools](http://mootools.net/)
+- [Dojo](http://www.dojotoolkit.org/)
+- [SWFObject](http://code.google.com/p/swfobject/)
+- [YUI](http://developer.yahoo.com/yui/)
+- [Ext Core](http://www.extjs.com/products/extcore/)
