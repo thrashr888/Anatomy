@@ -4,12 +4,12 @@ Anatomy includes the basics of a modern HTML template so you don't have to start
 
   - XHTML 1.0 Transitional
   - Smart defaults including jQuery, 960 and Google Ajax API
-  - Layout basics: header, content and footer DIVs
+  - Layout basics: header with nav bar, content and footer DIVs
   - CSS Frameworks (960, Blueprint, YUI, Dropdown Menu)
   - JS Frameworks (jQuery, Prototype + Scriptaculous, MooTools, Dojo, YUI, Ext)
-  - Google Analytics Tag
+  - Google Analytics tags
   - Text to be replaced is marked by "REPLACE"
-  - Hosted at GitHub
+  - Hosted at GitHub, of course
 
 ## Getting Started
 
@@ -56,7 +56,7 @@ Or, if you don’t have git, you can just download the latest source as a tarbal
 - add icon sets?
 - add custom framework for image buttons
 
-# License & Credit
+## License & Credit
 
 MIT License
 Copyright (c) 2009 Paul Thrasher
