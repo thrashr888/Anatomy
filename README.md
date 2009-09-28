@@ -1,16 +1,15 @@
 # Anatomy - An HTML Framework
 
-Anatomy includes the basics of a modern HTML template.
+Anatomy includes the basics of a modern HTML template so you don't have to start your HTML from scratch.
 
   - XHTML 1.0 Transitional
-  - Hosted at GitHub
   - Smart defaults including jQuery, 960 and Google Ajax API
-  - Header, content and footer DIVs
-  - CSS Dropdown Menu
-  - CSS Frameworks (960, Blueprint, YUI)
+  - Layout basics: header, content and footer DIVs
+  - CSS Frameworks (960, Blueprint, YUI, Dropdown Menu)
   - JS Frameworks (jQuery, Prototype + Scriptaculous, MooTools, Dojo, YUI, Ext)
   - Google Analytics Tag
   - Text to be replaced is marked by "REPLACE"
+  - Hosted at GitHub
 
 ## Getting Started
 
@@ -18,10 +17,13 @@ One way to use the Anatomy template is to simply use a copy as the basis of a ne
 
 Here's how to use Anatomy to start a new project:
 
-    git clone git://github.com/thrashr888/Anatomy.git
+    # git clone git://github.com/thrashr888/Anatomy.git
+    # rm -rf .git
 
-    rm -rf .git
+Or, if you don’t have git, you can just download the latest source as a tarball:
 
+    # curl -L http://github.com/thrashr888/Anatomy/tarball/master -o Anatomy.tar.gz
+    # tar xzvf Anatomy.tar.gz
 
 ## CSS and JavaScript Frameworks Included
 
@@ -38,8 +40,6 @@ At first I linked 960 and Blueprint to their respective repos on GitHub as submo
 
 ### JavaScript Frameworks
 
-All JavaScript frameworks are hosted by [Google Ajax Libraries API](http://code.google.com/apis/ajaxlibs/).
-
 - [jQuery](http://jquery.com/) (Default)
 - [jQueryUI](http://jqueryui.com/)
 - [Prototype JS](http://prototypejs.org/)
@@ -50,18 +50,18 @@ All JavaScript frameworks are hosted by [Google Ajax Libraries API](http://code.
 - [YUI](http://developer.yahoo.com/yui/)
 - [Ext Core](http://www.extjs.com/products/extcore/)
 
-
 ## TODO
 
 - make sure all CSS and JS files are combined and compressed
 - add a basic sidebar
-- add a few basic layout styles (right sidebar, left sidebar, etc.)
+- add a few basic layout styles (right sidebar, left sidebar, 3 column, etc.)
 - HTML5 version
 - base.js file loader for each JS framework
 - add icon sets?
 
-# License
+# License & Credit
 
 MIT License
-
 Copyright (c) 2009 Paul Thrasher
+
+Inspired by Federico Maggi's awesome [iWebSkel](http://iwebskel.com/). All JavaScript frameworks are hosted by [Google Ajax Libraries API](http://code.google.com/apis/ajaxlibs/).
