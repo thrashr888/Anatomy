@@ -1,6 +1,0 @@
-[submodule "css/blueprint"]
-	path = css/blueprint
-	url = git://github.com/joshuaclayton/blueprint-css.git
-[submodule "css/960"]
-	path = css/960
-	url = git://github.com/davemerwin/960-grid-system.git
