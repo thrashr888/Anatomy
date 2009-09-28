@@ -1,16 +1,18 @@
 # Anatomy - An HTML Framework
 
-- XHTML 1.0 Transitional
-- Hosted at GitHub
-- Includes the basics of a modern HTML template
-  - header, content and footer DIVs
-  - dropdown menu
+Anatomy includes the basics of a modern HTML template.
+
+  - XHTML 1.0 Transitional
+  - Hosted at GitHub
+  - Smart defaults including jQuery, 960 and Google Ajax API
+  - Header, content and footer DIVs
+  - CSS Dropdown Menu
   - CSS Frameworks (960, Blueprint, YUI)
   - JS Frameworks (jQuery, Prototype + Scriptaculous, MooTools, Dojo, YUI, Ext)
   - Google Analytics Tag
   - Text to be replaced is marked by "REPLACE"
 
-## Getting Started with a new website
+## Getting Started
 
 One way to use the Anatomy template is to simply use a copy as the basis of a new project. It's easy. Just clone the git repo, remove the git folder, and start a new one. This is the basic idea of Anatomy. Just grab a copy and get going!
 
@@ -19,17 +21,9 @@ Here's how to use Anatomy to start a new project:
     git clone git://github.com/thrashr888/Anatomy.git
 
     rm -rf .git
-    
-    # Optionally start a new project:
-
-    git init
-
-    git add *
-
-    git commit -m "initial checkin"
 
 
-## Included CSS and JavaScript
+## CSS and JavaScript Frameworks Included
 
 The most popular open source CSS and JS frameworks are provided for you. jQuery and 960 are setup by default but they're easy to swich by simply un-commenting the provided code and removing what's unneeded. The idea of this HTML framework is that the basics are taken care of so you don't have to start from scratch for every new web project.
 
