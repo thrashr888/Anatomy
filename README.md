@@ -14,7 +14,7 @@ Anatomy includes the basics of a modern HTML template.
 
 ## Getting Started
 
-One way to use the Anatomy template is to simply use a copy as the basis of a new project. It's easy. Just clone the git repo, remove the git folder, and start a new one. This is the basic idea of Anatomy. Just grab a copy and get going!
+One way to use the Anatomy template is to simply use a copy as the basis of a new project. It's easy. Just clone the git repo, remove the git folder, and start your project. This is the basic idea of Anatomy. Just grab a copy and get going!
 
 Here's how to use Anatomy to start a new project:
 
