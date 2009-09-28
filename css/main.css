@@ -1,0 +1,115 @@
+/*
+main.css
+=basic
+=layout
+=helpers
+=forms
+*/
+
+/*
+=basic
+*/
+body{
+  
+}
+
+a{
+  
+}
+  a:hover{
+  
+  }
+  a:visited{
+
+  }
+  a:active{
+
+  }
+
+h1{
+  
+}
+h2{
+  
+}
+
+hr{
+  
+}
+br{
+  
+}
+
+/*
+=layout
+*/
+#header{
+  
+}
+  #header #logo{
+
+  }
+#content{
+  
+}
+#footer{
+  
+}
+
+#nav{
+  
+}
+  #nav ul.dropdown{
+
+  }
+    #nav ul.dropdown li{
+
+    }
+      #nav ul.dropdown li a{
+
+      }
+
+/*
+=helpers
+*/
+.center{
+	width: 100%;
+	text-align: center
+}
+.right{
+  text-align: right;
+}
+.clr{
+	clear: both;
+}
+.cl,
+.clearleft{
+	clear: left;
+}
+.cr,
+.clearright{
+	clear: right;
+}
+
+/*
+=forms
+*/
+form{
+  
+}
+fieldset{
+  
+}
+fieldset label{
+  
+}
+input{
+  
+}
+  input.submit,
+  input[type=submit]{
+
+  }
+textarea{
+  
+}

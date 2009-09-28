@@ -1,6 +1,6 @@
 # Anatomy - An HTML Framework
 
-Anatomy includes the basics of a modern HTML template so you don't have to start your HTML from scratch.
+Anatomy includes the basics of a modern HTML template so you don't have to start your HTML from scratch. It's a glue framework that brings together the best web dev frameworks into one spot.
 
   - XHTML 1.0 Transitional
   - Smart defaults including jQuery, 960 and Google Ajax API
@@ -25,20 +25,15 @@ Or, if you don’t have git, you can just download the latest source as a tarbal
     # curl -L http://github.com/thrashr888/Anatomy/tarball/master -o Anatomy.tar.gz
     # tar xzvf Anatomy.tar.gz
 
-## CSS and JavaScript Frameworks Included
-
-The most popular open source CSS and JS frameworks are provided for you. jQuery and 960 are setup by default but they're easy to swich by simply un-commenting the provided code and removing what's unneeded. The idea of this HTML framework is that the basics are taken care of so you don't have to start from scratch for every new web project.
-
-### CSS Frameworks
-
-At first I linked 960 and Blueprint to their respective repos on GitHub as submodules. I've decided against this to cut down on having too many unneeded files in the folder structure. I also combined 960's files to cut down on HTTP requests.
+## CSS Frameworks Included
 
 - [960 Grid System](http://960.gs) (Default)
 - [Blueprint CSS Framework](http://blueprintcss.org)
 - [YUI CSS Foundation](http://developer.yahoo.com/yui/base/)
 - [Free CSS Drop-Down Menu Framework](http://www.lwis.net/free-css-drop-down-menu)
+- A main.css file with empty selectors to get you started.
 
-### JavaScript Frameworks
+## JavaScript Frameworks Included
 
 - [jQuery](http://jquery.com/) (Default)
 - [jQueryUI](http://jqueryui.com/)
@@ -49,15 +44,17 @@ At first I linked 960 and Blueprint to their respective repos on GitHub as submo
 - [SWFObject](http://code.google.com/p/swfobject/)
 - [YUI](http://developer.yahoo.com/yui/)
 - [Ext Core](http://www.extjs.com/products/extcore/)
+- A main.js file with an empty document.onready handler to get you started.
 
 ## TODO
 
-- make sure all CSS and JS files are combined and compressed
+- make sure all CSS and JS files are combined and compressed where possible
 - add a basic sidebar
-- add a few basic layout styles (right sidebar, left sidebar, 3 column, etc.)
+- add a few basic layout styles (right sidebar, left sidebar, 3 column, fluid/fixed, etc.)
 - HTML5 version
 - base.js file loader for each JS framework
 - add icon sets?
+- add custom framework for image buttons
 
 # License & Credit
 
