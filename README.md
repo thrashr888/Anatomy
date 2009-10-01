@@ -17,13 +17,13 @@ One way to use the Anatomy template is to simply use a copy as the basis of a ne
 
 Here's how to use Anatomy to start a new project:
 
-    # git clone git://github.com/thrashr888/Anatomy.git
-    # rm -rf .git
+    $> git clone git://github.com/thrashr888/Anatomy.git
+    $> rm -rf .git
 
 Or, if you don’t have git, you can just download the latest source as a tarball:
 
-    # curl -L http://github.com/thrashr888/Anatomy/tarball/master -o Anatomy.tar.gz
-    # tar xzvf Anatomy.tar.gz
+    $> curl -L http://github.com/thrashr888/Anatomy/tarball/master -o Anatomy.tar.gz
+    $> tar xzvf Anatomy.tar.gz
 
 ## CSS Frameworks Included
 
