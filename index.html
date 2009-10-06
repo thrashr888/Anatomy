@@ -13,11 +13,9 @@
 	<link rel="icon" type="image/x-icon" href="favicon.ico" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 	<link rel="apple-touch-icon" href="mtouch.png" />
-
-	<!-- meta -->
-	<meta name="description" content="REPLACE description" />
 	
 	<title>REPLACE Title</title>
+	<meta name="description" content="REPLACE description" />
 	
 	<!--
 	  CSS Frameworks
@@ -84,12 +82,12 @@
     <br class="clear" />
     
 		<div id="nav" class="grid_12">
-		  <ul class="dropdown dropdown-horizontal">
-			  <li><a href="/link_1" title="Link 1" class="active">Link 1</a></li>
-			  <li class="dir"><a href="/link_2" title="Link 2" class="">Link 2</a>
-			    <ul>
-    			  <li><a href="/link_2-1" title="Link 2.1">Link 2.1</a></li>
-      			<li><a href="/link_2-2" title="Link 2.2">Link 2.2</a></li>
+      <ul class="dropdown dropdown-horizontal">
+        <li><a href="/link_1" title="Link 1" class="active">Link 1</a></li>
+        <li class="dir"><a href="/link_2" title="Link 2" class="">Link 2</a>
+          <ul>
+            <li><a href="/link_2-1" title="Link 2.1">Link 2.1</a></li>
+            <li><a href="/link_2-2" title="Link 2.2">Link 2.2</a></li>
 			    </ul>
 			  </li>
 			  <li><a href="/link_3" title="Link 3" class="">Link 3</a></li>
@@ -111,11 +109,13 @@
 		<div class="grid_6 prefix_6">
 			<p>&copy; <!--<?php //echo date('Y');?>--> REPLACE Copyright. Anatomy HTML Template by <a href="http://paulthrasher.com" title="Paul Thrasher">Paul Thrasher</a>.</p>
 		</div>
-	</div>	
+	</div>
 	
   <script type="text/javascript">
     $.getScript("js/main.js"); // use jQuery to dynamically load your JavaScript files
   </script>
+  
+  <!-- Google Analytics Bug -->
 	<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));

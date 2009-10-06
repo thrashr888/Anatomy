@@ -90,6 +90,14 @@ br{
 .clearright{
 	clear: right;
 }
+.border{
+  border-bottom: 1px solid grey;
+  border-top: 1px solid grey;
+}
+.debug{
+  border: 1px dotted red;
+  background-color: #DDFFFF;
+}
 
 /*
 =forms
