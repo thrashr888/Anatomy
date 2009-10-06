@@ -45,6 +45,7 @@ Or, if you don’t have git, you can just download the latest source as a tarbal
 - [SWFObject](http://code.google.com/p/swfobject/)
 - [YUI](http://developer.yahoo.com/yui/)
 - [Ext Core](http://www.extjs.com/products/extcore/)
+- [Modernizr](http://www.modernizr.com/)
 - A main.js file with an empty document.onready handler to get you started.
 
 ## Layouts Included
@@ -62,6 +63,7 @@ Or, if you don’t have git, you can just download the latest source as a tarbal
 - HTML 5
 - 1 column
 - header, nav, content, footer
+- Modernizr for HTML5 capability detection
 - 960 and jQuery defaults
 
 ### 2 Column
