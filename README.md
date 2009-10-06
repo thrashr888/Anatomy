@@ -48,22 +48,29 @@ Or, if you don’t have git, you can just download the latest source as a tarbal
 
 ## Layouts Included
 
+### Basic
 - index.html (Default)
-  - XHTML 1.0 Transitional
-  - 1 column
-  - header, nav, content, footer
+- XHTML 1.0 Transitional
+- 1 column
+- header, nav, content, footer
+
+### HTML5
 - html5.html
-  - HTML 5
-  - 1 column
-  - header, nav, content, footer
+- HTML 5
+- 1 column
+- header, nav, content, footer
+
+### 2 Column
 - 2_column.html
-  - XHTML 1.0 Transitional
-  - 2 column
-  - header, nav, content, sidebar, footer
+- XHTML 1.0 Transitional
+- 2 column
+- header, nav, content, sidebar, footer
+
+### 3 Column
 - 3_column.html
-  - XHTML 1.0 Transitional
-  - 3 column
-  - header, nav, column 1, column 2, column 3, footer
+- XHTML 1.0 Transitional
+- 3 column
+- header, nav, column 1, column 2, column 3, footer
 
 ## TODO
 
