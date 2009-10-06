@@ -56,7 +56,8 @@ Or, if you don’t have git, you can just download the latest source as a tarbal
 - header, nav, content, footer
 - 960 and jQuery defaults
 
-### HTML5 (*experimental work in progress*)
+### HTML5
+- *experimental work in progress*
 - html5.html
 - HTML 5
 - 1 column
