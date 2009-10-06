@@ -46,6 +46,25 @@ Or, if you don’t have git, you can just download the latest source as a tarbal
 - [Ext Core](http://www.extjs.com/products/extcore/)
 - A main.js file with an empty document.onready handler to get you started.
 
+## Layouts Included
+
+- index.html (Default)
+  - XHTML 1.0 Transitional
+  - 1 column
+  - header, nav, content, footer
+- html5.html
+  - HTML 5
+  - 1 column
+  - header, nav, content, footer
+- 2_column.html
+  - XHTML 1.0 Transitional
+  - 2 column
+  - header, nav, content, sidebar, footer
+- 3_column.html
+  - XHTML 1.0 Transitional
+  - 3 column
+  - header, nav, column 1, column 2, column 3, footer
+
 ## TODO
 
 - make sure all CSS and JS files are combined and compressed where possible
